@@ -54,27 +54,6 @@ Focused on building **scalable, secure, real-world applications**
 ### 🔹 Contribution Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ambivert01&theme=react-dark&hide_border=true)
 
----
-
-### 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambivert01&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
-### 🔹 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambivert01&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 🔹 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ambivert01&theme=dark&hide_border=true)
-
----
-
-### 🔹 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ambivert01&theme=darkhub&no-frame=true)
-
----
 
 ## 🚀 Production-Level Projects
 
